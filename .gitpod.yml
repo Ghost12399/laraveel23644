@@ -3,3 +3,8 @@ tasks:
     command: cd dev/phpmyadmin && php -S localhost:8085
 image:
   file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - onecentlin.laravel-extension-pack@0.6.1:y4wO66JIQnUdJs6xBFubKQ==
+    - dracula-theme.theme-dracula@2.20.0:3ytFGkwBUqAAYaWVrFDm3w==
